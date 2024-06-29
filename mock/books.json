@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "book": "Lorem Ipusm",
+    "image": "https://eimaung.com/img/jsbook.png",
+    "author": "George Orwell",
+    "slug": "1984",
+    "description": "Nineteen Eighty-Four, often published as 1984, is a dystopian novel by English writer George Orwell, published in June 1949. The novel is set in a dystopian future..."
+  },
+  {
+    "id": "2",
+    "book": "To Kill a Mockingbird",
+    "image": "https://eimaung.com/img/api.png",
+    "author": "Harper Lee",
+    "slug": "to-kill-a-mockingbird",
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature."
+  },
+  {
+    "id": "3",
+    "book": "Harry Potter and the Philosopher's Stone",
+    "image": "https://eimaung.com/img/bootstrap.png",
+    "author": "J.K. Rowling",
+    "slug": "harry-potter-and-the-philosophers-stone",
+    "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J.K. Rowling. It is the first novel in the Harry Potter series and Rowling's debut novel."
+  },
+  {
+    "id": "4",
+    "book": "The Great Gatsby",
+    "image": "https://eimaung.com/img/jsbook.png",
+    "author": "F. Scott Fitzgerald",
+    "slug": "the-great-gatsby",
+    "description": "The Great Gatsby is a novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922."
+  },
+  {
+    "id": "5",
+    "book": "Pride and Prejudice",
+    "image": "https://eimaung.com/img/php.png",
+    "author": "Jane Austen",
+    "slug": "pride-and-prejudice",
+    "description": "Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness."
+  },
+  {
+    "id": "6",
+    "book": "The Catcher in the Rye",
+    "image": "https://eimaung.com/img/laravel.png",
+    "author": "J.D. Salinger",
+    "slug": "the-catcher-in-the-rye",
+    "description": "The Catcher in the Rye is a novel by J.D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adults, but it is often read by adolescents for its themes of angst and alienation, and as a critique on superficiality in society."
+  },
+  {
+    "id": "7",
+    "book": "Moby-Dick",
+    "image": "https://eimaung.com/img/react.png",
+    "author": "Herman Melville",
+    "slug": "moby-dick",
+    "description": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee."
+  },
+  {
+    "id": "8",
+    "book": "The Lord of the Rings",
+    "image": "https://eimaung.com/img/laravel.png",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-lord-of-the-rings",
+    "description": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J.R.R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work."
+  },
+  {
+    "id": "9",
+    "book": "The Hitchhiker's Guide to the Galaxy",
+    "image": "https://eimaung.com/img/api.png",
+    "author": "Douglas Adams",
+    "slug": "the-hitchhikers-guide-to-the-galaxy",
+    "description": "The Hitchhiker's Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. The series follows the adventures of Arthur Dent, a hapless Englishman, following the destruction of Earth by the Vogons, a race of unpleasant and bureaucratic aliens, to make way for an intergalactic freeway."
+  },
+  {
+    "id": "10",
+    "book": "Brave New World",
+    "image": "https://eimaung.com/img/pwd.png",
+    "author": "Aldous Huxley",
+    "slug": "brave-new-world",
+    "description": "Brave New World is a dystopian novel by English author Aldous Huxley, published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that are combined to make a dystopian society."
+  },
+  {
+    "id": "11",
+    "book": "The Hobbit",
+    "image": "https://eimaung.com/img/rsd.png",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-hobbit",
+    "description": "The Hobbit, or There and Back Again, is a fantasy novel and children's book by English author J.R.R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction."
+  },
+  {
+    "id": "12",
+    "book": "Frankenstein",
+    "image": "https://eimaung.com/img/u4u.png",
+    "author": "Mary Shelley",
+    "slug": "frankenstein",
+    "description": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment."
+  },
+  {
+    "id": "13",
+    "book": "The Handmaid's Tale",
+    "image": "https://eimaung.com/img/bootstrap.png",
+    "author": "Margaret Atwood",
+    "slug": "the-handmaids-tale",
+    "description": "The Handmaid's Tale is a dystopian novel by Canadian author Margaret Atwood, published in 1985. It is set in a near-future New England, in a totalitarian state resembling a theonomy that overthrows the United States government."
+  },
+  {
+    "id": "14",
+    "book": "One Hundred Years of Solitude",
+    "image": "https://eimaung.com/img/laravel.png",
+    "author": "Gabriel García Márquez",
+    "slug": "one-hundred-years-of-solitude",
+    "description": "One Hundred Years of Solitude is a landmark 1967 novel by Colombian author Gabriel García Márquez. The novel is widely regarded as a masterpiece of magic realism, and it is the author's best-known work."
+  },
+  {
+    "id": "15",
+    "book": "The Road",
+    "image": "https://eimaung.com/img/react.png",
+    "author": "Cormac McCarthy",
+    "slug": "the-road",
+    "description": "The Road is a 2006 post-apocalyptic novel by American writer Cormac McCarthy. The novel details the journey of a father and his young son over a period of several months, across a landscape blasted by an unspecified cataclysm."
+  }
+]
